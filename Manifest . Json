@@ -1,0 +1,13 @@
+{
+  "name": "Cari Huruf Ceria",
+  "short_name": "Cari Huruf",
+  "id": "/Cari-Huruf-Ceria/",
+  "start_url": "/Cari-Huruf-Ceria/",
+  "scope": "/Cari-Huruf-Ceria/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "ms",
+  "description": "Permainan pembelajaran interaktif untuk kanak-kanak umur 4 tahun belajar mengenal dan mencari huruf.",
+  "theme_color": "#FF8E53",
+  "background_color": "#FFF3E0"
+}
